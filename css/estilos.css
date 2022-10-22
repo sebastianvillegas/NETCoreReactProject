@@ -16,3 +16,8 @@ body {
 #container h1 {
   font-size: 20px;
 }
+
+#cabecera {
+    font-weight: bold;
+    border: 1px salmon solid;
+}
