@@ -1,2 +1,4 @@
 Hola1
 probando el soft 2
+
+probando el git reset head
